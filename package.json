@@ -43,7 +43,7 @@
     "eslint-config-steelbrain": "^8.0.0-beta1",
     "eslint-plugin-flowtype": "^4.5.2",
     "flow-bin": "^0.114.0",
-    "pty.js": "^0.3.1",
+    "node-pty": "*",
     "sb-babel-cli": "^2.1.0",
     "ssh2-streams": "github:dsafanyuk/ssh2-streams#ssh-certificate"
   },
